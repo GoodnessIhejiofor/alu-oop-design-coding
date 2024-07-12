@@ -2,7 +2,7 @@
 
 ## University Residence Management System
 
-#Objective:
+# Objective:
 
 This assignment will challenge you to apply Object-Oriented Programming (OOP) concepts in JavaScript to model & design classes for a system for managing university residence.
 
